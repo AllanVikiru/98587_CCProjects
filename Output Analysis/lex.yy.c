@@ -1506,7 +1506,7 @@ int main(){
 
     FILE *file; 
     char filename[50]; 
-    printf("Enter the file name: \n"); 
+    printf("Enter the file name e.g. file.txt: \n"); 
     scanf("%s",filename); 
     file = fopen(filename,"r"); 
     yyin = file; 
