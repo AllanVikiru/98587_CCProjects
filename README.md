@@ -1,2 +1,5 @@
-# 98587_CCProjects
-Labs and Assignments for the Compiler Construction course
+## ICS 4211 Compiler Construction (September - December 2020)
+
+> Labwork:
+
+1. [Lexical Analysis](https://github.com/AllanVikiru/98587_CCProjects/tree/lex)
