@@ -15,7 +15,7 @@
 
 [MinGW for Windows - GCC Compiler for C/C++](https://www.youtube.com/watch?v=sXW2VLrQ3Bs)
 
-[Flex for Windows](http://gnuwin32.sourceforge.net/packages/flex.htm) : Download the 'Complete package, except sources' setup [file](http://gnuwin32.sourceforge.net/downlinks/flex.php). After, select the path to the binary files e.g. ```C:\GnuWin32\bin``` and include to a system PATH environment variable. [(Tutorial)](https://helpdeskgeek.com/windows-10/add-windows-path-environment-variable/) Verify the installation by running ```flex --version```, it should return the version number of the software installed.
+[Flex for Windows](http://gnuwin32.sourceforge.net/packages/flex.htm) : Follow the link and download the 'Complete package, except sources' setup [file](http://gnuwin32.sourceforge.net/downlinks/flex.php). After, select the path to the binary files e.g. ```C:\GnuWin32\bin``` and include to a system PATH environment variable. [(Tutorial)](https://helpdeskgeek.com/windows-10/add-windows-path-environment-variable/) Verify the installation by running ```flex --version```, it should return the version number of the software installed.
 
 
 ##### OS: Windows
